@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-picture_folder = "../Dataset"
+picture_folder = "./Dataset"
 ptg_prompt_path = "./PTG_Prompt.txt"
 
 def encode_image(image_path):

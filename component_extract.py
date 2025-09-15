@@ -35,7 +35,7 @@ if __name__=="__main__":
     clear_folder('./results')
     clear_folder('./assets/outputs')
     
-    asset_input_dir = '../Dataset'
+    asset_input_dir = './Dataset'
     asset_output_dir = './assets/outputs'
     initial_result_dir = './results'
     initial_split_dir = './split_img'

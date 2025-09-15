@@ -108,7 +108,7 @@ def clear_folder(folder_path):
 if __name__ == "__main__":
     component_info_folder = "./results/extract_results"
     lang = "Flutter"
-    image_dir = "../Dataset"
+    image_dir = "./Dataset"
 
     category = "Entertainment"
     app = "musicAPP"
